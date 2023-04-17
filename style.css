@@ -11,7 +11,10 @@ body {
 header {
     background-color:#be00e4;
     padding: 20px;
-    align-items: center;
+    text-align: center;
+}
+h6 {
+	text-align: center;
 }
 
 /* Estilos de la barra de navegación */
@@ -43,6 +46,7 @@ nav ul li a {
 section {
     padding: 20px;
     background-color: #be00e4;
+	text-align: center;
 }
 
 /* Estilos del pie de página */
